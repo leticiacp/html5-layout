@@ -1,0 +1,41 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+.header{
+		width: 100%;
+		height: 100px;
+		background: blue;
+	}	
+.nav{
+		width: 100%;
+		height: 100px;
+		background: orange;
+	
+}
+.footer{
+	width: 100%;
+	height: 100px;
+	background:grey;
+}
+.conteudo{
+	display: flex;
+}
+.conteudo-principal{
+	width: 50%;
+	height: 400px;
+	background:red;
+}
+.menu-lateral{
+	width: 50%;
+	height: 400px;
+	background: purple;
+
+}
+.texto1{
+height: 200px;
+}
+.texto2{
+	height: 200px;
+
+}
